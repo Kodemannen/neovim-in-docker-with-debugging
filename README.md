@@ -1,2 +1,2 @@
-# neovim-in-docker-with-plugins-for-things-like-for-example-debugging
-Repo for a Docker setup that includes Neovim with plugins
+# neovim-in-docker-with-debugging
+Repo for a Docker setup that includes Neovim with plugins and debugging (just for Python, for now)

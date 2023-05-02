@@ -1,0 +1,10 @@
+version: '3'
+services:
+  neovimdocker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    stdin_open: true
+    tty: true
+    shm_size: 6g
